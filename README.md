@@ -106,6 +106,12 @@ The dataset is widely used to **analyze factors influencing customer churn** and
 - Displays dataset preview (first 20 rows)  
 - Shows **feature importance** and **model accuracy comparison**  
 
+### 9️⃣ Dashboard Deployment
+- Ran dashboard locally using:
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn streamlit xgboost joblib
+streamlit run Churn.py
+```
 ---
 
 ## Results & Insights
