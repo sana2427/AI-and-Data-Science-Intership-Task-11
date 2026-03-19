@@ -1,4 +1,4 @@
-# Task 1: End-to-End ML Project with Streamlit GUI (Customer Churn Prediction)
+# Task 1: End-to-End ML Project with Streamlit GUI 
 
 ## Overview
 This repository contains the solution for Task 1: End-to-End ML Project with Streamlit GUI, completed as part of my AI & Data Science Internship tasks.  
